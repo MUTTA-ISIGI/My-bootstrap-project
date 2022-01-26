@@ -1,0 +1,36 @@
+.top-left{
+    height: 30vh;
+    background-color: purple;
+}
+.top-right{
+    height: 30vh;
+    background-color: deeppink;
+}
+.mid-left{
+    background-color: green;
+    height: 40vh;
+}
+.mid-center{
+    background-color: black;
+    height: 40vh;
+}
+.mid-right{
+    background-color: red;
+    height: 40vh;
+}
+.bottom-left-one{
+    background-color: brown;
+    height: 50vh;
+}
+.bottom-left-two{
+    background-color: burlywood;
+    height: 50vh;
+}
+.bottom-right-three{
+    background-color: beige;
+    height: 50vh;
+}
+.bottom-right-four{
+    background-color: goldenrod;
+    height: 50vh;
+}
